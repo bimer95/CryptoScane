@@ -1,0 +1,14 @@
+header {
+    display: grid;
+    grid-template-columns: 9fr 1fr;
+    grid-template-rows: 5fr 0.4fr;
+}
+
+.button {
+    height: 2px;
+    width: 40px;
+}
+
+.header img {
+    width: 40px;
+}
